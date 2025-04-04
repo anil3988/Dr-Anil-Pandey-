@@ -59,7 +59,7 @@
     </section>
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email: contact@dranilpandey.com | Phone: +91-XXXXXXXXXX</p>
+        <p>Email: contact@dranilpandey.com | Phone: 9407931699
     </section>
     <footer>
         <p>&copy; 2025 Dr. Anil Pandey. All rights reserved.</p>
